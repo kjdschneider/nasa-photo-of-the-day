@@ -1,3 +1,6 @@
+// My attempts to get a video player working through React
+
+
 import React from 'react';
 import {Player} from 'video-react';
 
